@@ -10,3 +10,4 @@ Cocos Creator 1.8.0 or above is needed
 
 ## Snapshots
 
+![](./snapshots/1553222053089.jpg)
