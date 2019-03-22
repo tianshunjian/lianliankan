@@ -1,6 +1,6 @@
 # lianliankan
 
-A classical game —— "Lian Lian Kan"
+A classical game —— "Lian Lian Kan", developed by Cocos Creator.
 
 It is a Cocos Creator project which can be built to WeChat game, web game, and native games.
 
